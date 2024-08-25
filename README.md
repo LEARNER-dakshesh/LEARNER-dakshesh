@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript and ReactJs**
 
-- 📝 I regularly write articles on [www.geeksforgeeks.com](www.geeksforgeeks.com)
+- 📝 I regularly write articles on [[www.geeksforgeeks.com](https://auth.geeksforgeeks.org/user/daksheshgupta4/articles/)](www.geeksforgeeks.com)
 
 - 📫 How to reach me **daksheshgupta4@gmail.com**
 
