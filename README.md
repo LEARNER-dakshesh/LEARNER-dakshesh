@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dakshesh Gupta</h1>
-<h3 align="center">A passionate Web Developer and Flutter Developer from India. I have made few apps in flutter using dart and firebase and some beautiful widgets.</h3>
+<h3 align="center">A passionate Web Developer and Flutter Developer from India. I have made few apps in flutter using dart and firebase and some beautiful widgets .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learner-dakshesh&label=Profile%20views&color=0e75b6&style=flat" alt="learner-dakshesh" /> </p>
 
